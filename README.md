@@ -11,8 +11,8 @@ ARDUINO IDE ---  https://www.arduino.cc/en/software //(DOWNLOAD THE LATEST VERSI
          -USB cable type A/B
 
 
-        WIREING
-LM35D             ARDUINO UNO
-OUT    ----------- PIN 5 
--      -----------  GND
-+      -----------   5V
+                WIREING
+      LM35D             ARDUINO UNO
+        OUT    ----------- PIN 5 
+         -      -----------  GND
+         +      -----------   5V
